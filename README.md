@@ -1,5 +1,4 @@
 # Q&A RAG Chatbot With Pinecone and NVIDIA Endpoints
----
 
 A RAG chatbot for question-answering about Youtube courses. To do this, It is implemented the three following steps.
 
